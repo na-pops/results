@@ -7,6 +7,8 @@
 "WITU","Wild Turkey","Meleagris gallopavo",1,1
 "RUGR","Ruffed Grouse","Bonasa umbellus",1,1
 "SPGR","Spruce Grouse","Falcipennis canadensis",1,1
+"WIPT","Willow Ptarmigan","Lagopus lagopus",1,1
+"ROPT","Rock Ptarmigan","Lagopus muta",1,0
 "WTPT","White-tailed Ptarmigan","Lagopus leucura",1,1
 "GRSG","Greater Sage-Grouse","Centrocercus urophasianus",1,1
 "DUGR","Dusky Grouse","Dendragapus obscurus",1,1
@@ -20,11 +22,14 @@
 "BTPI","Band-tailed Pigeon","Patagioenas fasciata",1,1
 "EUCD","Eurasian Collared-Dove","Streptopelia decaocto",1,1
 "WWDO","White-winged Dove","Zenaida asiatica",1,1
+"ZEND","Zenaida Dove","Zenaida aurita",1,0
 "MODO","Mourning Dove","Zenaida macroura",1,1
 "GRRO","Greater Roadrunner","Geococcyx californianus",1,1
 "YBCU","Yellow-billed Cuckoo","Coccyzus americanus",1,1
 "MACU","Mangrove Cuckoo","Coccyzus minor",1,1
 "BBCU","Black-billed Cuckoo","Coccyzus erythropthalmus",1,1
+"PRLC","Puerto Rican Lizard-Cuckoo","Coccyzus vieilloti",1,0
+"LENI","Lesser Nighthawk","Chordeiles acutipennis",0,1
 "CONI","Common Nighthawk","Chordeiles minor",1,1
 "COPO","Common Poorwill","Phalaenoptilus nuttallii",1,1
 "CWWI","Chuck-will's-widow","Antrostomus carolinensis",1,1
@@ -61,8 +66,10 @@
 "BUOW","Burrowing Owl","Athene cunicularia",1,1
 "BADO","Barred Owl","Strix varia",1,1
 "SEOW","Short-eared Owl","Asio flammeus",1,1
+"PRTO","Puerto Rican Tody","Todus mexicanus",1,0
 "BEKI","Belted Kingfisher","Megaceryle alcyon",1,1
 "LEWO","Lewis's Woodpecker","Melanerpes lewis",1,1
+"PRWO","Puerto Rican Woodpecker","Melanerpes portoricensis",1,0
 "RHWO","Red-headed Woodpecker","Melanerpes erythrocephalus",1,1
 "ACWO","Acorn Woodpecker","Melanerpes formicivorus",1,1
 "GIWO","Gila Woodpecker","Melanerpes uropygialis",1,1
@@ -75,21 +82,24 @@
 "ATTW","American Three-toed Woodpecker","Picoides dorsalis",1,1
 "BBWO","Black-backed Woodpecker","Picoides arcticus",1,1
 "DOWO","Downy Woodpecker","Dryobates pubescens",1,1
-"NUWO","Nuttall's Woodpecker","Dryobates nuttallii",0,1
+"NUWO","Nuttall's Woodpecker","Dryobates nuttallii",1,1
 "LBWO","Ladder-backed Woodpecker","Dryobates scalaris",1,1
 "HAWO","Hairy Woodpecker","Dryobates villosus",1,1
 "WHWO","White-headed Woodpecker","Dryobates albolarvatus",1,1
 "NOFL","Northern Flicker","Colaptes auratus",1,1
 "PIWO","Pileated Woodpecker","Dryocopus pileatus",1,1
 "AMKE","American Kestrel","Falco sparverius",1,1
-"MERL","Merlin","Falco columbarius",0,1
+"MERL","Merlin","Falco columbarius",1,1
 "PEFA","Peregrine Falcon","Falco peregrinus",1,1
 "PRFA","Prairie Falcon","Falco mexicanus",1,1
+"CAEL","Caribbean Elaenia","Elaenia martinica",1,0
 "ATFL","Ash-throated Flycatcher","Myiarchus cinerascens",1,1
 "GCFL","Great Crested Flycatcher","Myiarchus crinitus",1,1
+"PRFL","Puerto Rican Flycatcher","Myiarchus antillarum",1,0
 "CAKI","Cassin's Kingbird","Tyrannus vociferans",1,1
 "WEKI","Western Kingbird","Tyrannus verticalis",1,1
 "EAKI","Eastern Kingbird","Tyrannus tyrannus",1,1
+"GRAK","Gray Kingbird","Tyrannus dominicensis",1,0
 "STFL","Scissor-tailed Flycatcher","Tyrannus forficatus",1,1
 "OSFL","Olive-sided Flycatcher","Contopus cooperi",1,1
 "WEWP","Western Wood-Pewee","Contopus sordidulus",1,1
@@ -173,6 +183,7 @@
 "AMDI","American Dipper","Cinclus mexicanus",1,1
 "GCKI","Golden-crowned Kinglet","Regulus satrapa",1,1
 "RCKI","Ruby-crowned Kinglet","Regulus calendula",1,1
+"ARWA","Arctic Warbler","Phylloscopus borealis",1,1
 "WREN","Wrentit","Chamaea fasciata",1,1
 "EABL","Eastern Bluebird","Sialia sialis",1,1
 "WEBL","Western Bluebird","Sialia mexicana",1,1
@@ -186,6 +197,7 @@
 "AMRO","American Robin","Turdus migratorius",1,1
 "VATH","Varied Thrush","Ixoreus naevius",1,1
 "GRCA","Gray Catbird","Dumetella carolinensis",1,1
+"PETH","Pearly-eyed Thrasher","Margarops fuscatus",1,0
 "CBTH","Curve-billed Thrasher","Toxostoma curvirostre",1,1
 "BRTH","Brown Thrasher","Toxostoma rufum",1,1
 "CATH","California Thrasher","Toxostoma redivivum",0,1
@@ -193,31 +205,39 @@
 "SATH","Sage Thrasher","Oreoscoptes montanus",1,1
 "NOMO","Northern Mockingbird","Mimus polyglottos",1,1
 "EUST","European Starling","Sturnus vulgaris",1,1
+"BOWA","Bohemian Waxwing","Bombycilla garrulus",1,1
 "CEDW","Cedar Waxwing","Bombycilla cedrorum",1,1
 "PHAI","Phainopepla","Phainopepla nitens",1,1
 "OLWA","Olive Warbler","Peucedramus taeniatus",0,1
+"NRBI","Northern Red Bishop","Euplectes franciscanus",1,0
 "HOSP","House Sparrow","Passer domesticus",1,1
+"EYWA","Eastern Yellow Wagtail","Motacilla tschutschensis",1,1
 "AMPI","American Pipit","Anthus rubescens",1,1
 "SPPI","Sprague's Pipit","Anthus spragueii",1,1
 "EVGR","Evening Grosbeak","Coccothraustes vespertinus",1,1
 "PIGR","Pine Grosbeak","Pinicola enucleator",1,1
+"GCRF","Gray-crowned Rosy-Finch","Leucosticte tephrocotis",1,0
 "BLRF","Black Rosy-Finch","Leucosticte atrata",0,1
 "BCRF","Brown-capped Rosy-Finch","Leucosticte australis",1,1
 "HOFI","House Finch","Haemorhous mexicanus",1,1
 "PUFI","Purple Finch","Haemorhous purpureus",1,1
 "CAFI","Cassin's Finch","Haemorhous cassinii",1,1
-"CORE","Common Redpoll","Acanthis flammea",0,1
+"CORE","Common Redpoll","Acanthis flammea",1,1
+"HORE","Hoary Redpoll","Acanthis hornemanni",0,1
 "RECR","Red Crossbill","Loxia curvirostra",1,1
 "WWCR","White-winged Crossbill","Loxia leucoptera",1,1
 "PISI","Pine Siskin","Spinus pinus",1,1
 "LEGO","Lesser Goldfinch","Spinus psaltria",1,1
 "LAGO","Lawrence's Goldfinch","Spinus lawrencei",0,1
 "AMGO","American Goldfinch","Spinus tristis",1,1
-"LALO","Lapland Longspur","Calcarius lapponicus",0,1
+"LALO","Lapland Longspur","Calcarius lapponicus",1,1
 "CCLO","Chestnut-collared Longspur","Calcarius ornatus",1,1
 "SMLO","Smith's Longspur","Calcarius pictus",0,1
+"SNBU","Snow Bunting","Plectrophenax nivalis",1,0
+"RWSP","Rufous-winged Sparrow","Peucaea carpalis",1,1
 "BOSP","Botteri's Sparrow","Peucaea botterii",1,1
 "CASP","Cassin's Sparrow","Peucaea cassinii",1,1
+"BACS","Bachman's Sparrow","Peucaea aestivalis",1,1
 "GRSP","Grasshopper Sparrow","Ammodramus savannarum",1,1
 "BTSP","Black-throated Sparrow","Amphispiza bilineata",1,1
 "LASP","Lark Sparrow","Chondestes grammacus",1,1
@@ -231,7 +251,7 @@
 "ATSP","American Tree Sparrow","Spizelloides arborea",1,1
 "DEJU","Dark-eyed Junco","Junco hyemalis",1,1
 "WCSP","White-crowned Sparrow","Zonotrichia leucophrys",1,1
-"GCSP","Golden-crowned Sparrow","Zonotrichia atricapilla",0,1
+"GCSP","Golden-crowned Sparrow","Zonotrichia atricapilla",1,1
 "WTSP","White-throated Sparrow","Zonotrichia albicollis",1,1
 "SABS","Sagebrush Sparrow","Artemisiospiza nevadensis",1,1
 "BESP","Bell's Sparrow","Artemisiospiza belli",0,1
@@ -239,7 +259,7 @@
 "LCSP","LeConte's Sparrow","Ammospiza leconteii",1,1
 "NESP","Nelson's Sparrow","Ammospiza nelsoni",1,1
 "BAIS","Baird's Sparrow","Centronyx bairdii",1,1
-"HESP","Henslow's Sparrow","Centronyx henslowii",0,1
+"HESP","Henslow's Sparrow","Centronyx henslowii",1,1
 "SAVS","Savannah Sparrow","Passerculus sandwichensis",1,1
 "SOSP","Song Sparrow","Melospiza melodia",1,1
 "LISP","Lincoln's Sparrow","Melospiza lincolnii",1,1
@@ -256,6 +276,7 @@
 "EAME","Eastern Meadowlark","Sturnella magna",1,1
 "WEME","Western Meadowlark","Sturnella neglecta",1,1
 "OROR","Orchard Oriole","Icterus spurius",1,1
+"VETR","Venezuelan Troupial","Icterus icterus",1,0
 "BUOR","Bullock's Oriole","Icterus bullockii",1,1
 "BAOR","Baltimore Oriole","Icterus galbula",1,1
 "SCOR","Scott's Oriole","Icterus parisorum",1,1
@@ -303,6 +324,7 @@
 "YRWA","Yellow-rumped Warbler","Setophaga coronata",1,1
 "YTWA","Yellow-throated Warbler","Setophaga dominica",1,1
 "PRAW","Prairie Warbler","Setophaga discolor",1,1
+"ADWA","Adelaide's Warbler","Setophaga adelaidae",1,0
 "GRWA","Grace's Warbler","Setophaga graciae",1,1
 "BTYW","Black-throated Gray Warbler","Setophaga nigrescens",1,1
 "TOWA","Townsend's Warbler","Setophaga townsendi",1,1
@@ -315,7 +337,7 @@
 "SUTA","Summer Tanager","Piranga rubra",1,1
 "SCTA","Scarlet Tanager","Piranga olivacea",1,1
 "WETA","Western Tanager","Piranga ludoviciana",1,1
-"NOCA","Northern Cardinal","Cardinalis cardinalis",1,1
+"NOCA","Northern Cardinal","Cardinalis cardinalis",0,1
 "PYRR","Pyrrhuloxia","Cardinalis sinuatus",1,1
 "RBGR","Rose-breasted Grosbeak","Pheucticus ludovicianus",1,1
 "BHGR","Black-headed Grosbeak","Pheucticus melanocephalus",1,1
@@ -324,3 +346,7 @@
 "INBU","Indigo Bunting","Passerina cyanea",1,1
 "PABU","Painted Bunting","Passerina ciris",1,1
 "DICK","Dickcissel","Spiza americana",1,1
+"BANA","Bananaquit","Coereba flaveola",1,0
+"YFGR","Yellow-faced Grassquit","Tiaris olivaceus",1,0
+"PRBU","Puerto Rican Bullfinch","Melopyrrha portoricensis",1,0
+"BFGR","Black-faced Grassquit","Melanospiza bicolor",1,0
