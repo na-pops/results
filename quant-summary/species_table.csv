@@ -22,7 +22,7 @@
 "BTPI","Band-tailed Pigeon","Patagioenas fasciata",1,1
 "EUCD","Eurasian Collared-Dove","Streptopelia decaocto",1,1
 "WWDO","White-winged Dove","Zenaida asiatica",1,1
-"MODO","Mourning Dove","Zenaida macroura",0,1
+"MODO","Mourning Dove","Zenaida macroura",1,1
 "GRRO","Greater Roadrunner","Geococcyx californianus",1,1
 "YBCU","Yellow-billed Cuckoo","Coccyzus americanus",1,1
 "MACU","Mangrove Cuckoo","Coccyzus minor",1,0
@@ -184,7 +184,7 @@
 "SWTH","Swainson's Thrush","Catharus ustulatus",1,1
 "HETH","Hermit Thrush","Catharus guttatus",1,1
 "WOTH","Wood Thrush","Hylocichla mustelina",1,1
-"AMRO","American Robin","Turdus migratorius",0,1
+"AMRO","American Robin","Turdus migratorius",1,1
 "VATH","Varied Thrush","Ixoreus naevius",1,1
 "GRCA","Gray Catbird","Dumetella carolinensis",1,1
 "CBTH","Curve-billed Thrasher","Toxostoma curvirostre",1,1
@@ -262,7 +262,7 @@
 "BUOR","Bullock's Oriole","Icterus bullockii",1,1
 "BAOR","Baltimore Oriole","Icterus galbula",1,1
 "SCOR","Scott's Oriole","Icterus parisorum",1,1
-"RWBL","Red-winged Blackbird","Agelaius phoeniceus",0,1
+"RWBL","Red-winged Blackbird","Agelaius phoeniceus",1,1
 "TRBL","Tricolored Blackbird","Agelaius tricolor",0,1
 "BHCO","Brown-headed Cowbird","Molothrus ater",1,1
 "RUBL","Rusty Blackbird","Euphagus carolinus",1,0
@@ -303,7 +303,7 @@
 "BTBW","Black-throated Blue Warbler","Setophaga caerulescens",1,1
 "PAWA","Palm Warbler","Setophaga palmarum",1,0
 "PIWA","Pine Warbler","Setophaga pinus",1,1
-"YRWA","Yellow-rumped Warbler","Setophaga coronata",0,1
+"YRWA","Yellow-rumped Warbler","Setophaga coronata",1,1
 "YTWA","Yellow-throated Warbler","Setophaga dominica",1,1
 "PRAW","Prairie Warbler","Setophaga discolor",1,1
 "GRWA","Grace's Warbler","Setophaga graciae",0,1
