@@ -6,7 +6,7 @@
 "GAQU","Gambel's Quail","Callipepla gambelii",1,1
 "WITU","Wild Turkey","Meleagris gallopavo",1,1
 "RUGR","Ruffed Grouse","Bonasa umbellus",1,1
-"SPGR","Spruce Grouse","Falcipennis canadensis",1,0
+"SPGR","Spruce Grouse","Falcipennis canadensis",1,1
 "WIPT","Willow Ptarmigan","Lagopus lagopus",1,0
 "ROPT","Rock Ptarmigan","Lagopus muta",1,0
 "WTPT","White-tailed Ptarmigan","Lagopus leucura",1,1
@@ -128,7 +128,7 @@
 "CAVI","Cassin's Vireo","Vireo cassinii",1,1
 "BHVI","Blue-headed Vireo","Vireo solitarius",1,1
 "PLVI","Plumbeous Vireo","Vireo plumbeus",1,1
-"PHVI","Philadelphia Vireo","Vireo philadelphicus",1,0
+"PHVI","Philadelphia Vireo","Vireo philadelphicus",1,1
 "WAVI","Warbling Vireo","Vireo gilvus",1,1
 "REVI","Red-eyed Vireo","Vireo olivaceus",1,1
 "BWVI","Black-whiskered Vireo","Vireo altiloquus",1,0
@@ -193,7 +193,7 @@
 "MOBL","Mountain Bluebird","Sialia currucoides",1,1
 "TOSO","Townsend's Solitaire","Myadestes townsendi",1,1
 "VEER","Veery","Catharus fuscescens",1,1
-"GCTH","Gray-cheeked Thrush","Catharus minimus",1,0
+"GCTH","Gray-cheeked Thrush","Catharus minimus",1,1
 "SWTH","Swainson's Thrush","Catharus ustulatus",1,1
 "HETH","Hermit Thrush","Catharus guttatus",1,1
 "WOTH","Wood Thrush","Hylocichla mustelina",1,1
@@ -223,9 +223,9 @@
 "HOFI","House Finch","Haemorhous mexicanus",1,1
 "PUFI","Purple Finch","Haemorhous purpureus",1,1
 "CAFI","Cassin's Finch","Haemorhous cassinii",1,1
-"CORE","Common Redpoll","Acanthis flammea",1,0
+"CORE","Common Redpoll","Acanthis flammea",1,1
 "RECR","Red Crossbill","Loxia curvirostra",1,1
-"WWCR","White-winged Crossbill","Loxia leucoptera",1,0
+"WWCR","White-winged Crossbill","Loxia leucoptera",1,1
 "PISI","Pine Siskin","Spinus pinus",1,1
 "LEGO","Lesser Goldfinch","Spinus psaltria",1,1
 "LAGO","Lawrence's Goldfinch","Spinus lawrencei",0,1
@@ -247,7 +247,7 @@
 "FISP","Field Sparrow","Spizella pusilla",1,1
 "BRSP","Brewer's Sparrow","Spizella breweri",1,1
 "FOSP","Fox Sparrow","Passerella iliaca",1,1
-"ATSP","American Tree Sparrow","Spizelloides arborea",1,0
+"ATSP","American Tree Sparrow","Spizelloides arborea",1,1
 "DEJU","Dark-eyed Junco","Junco hyemalis",1,1
 "WCSP","White-crowned Sparrow","Zonotrichia leucophrys",1,1
 "GCSP","Golden-crowned Sparrow","Zonotrichia atricapilla",1,1
@@ -282,7 +282,7 @@
 "RWBL","Red-winged Blackbird","Agelaius phoeniceus",1,1
 "TRBL","Tricolored Blackbird","Agelaius tricolor",0,1
 "BHCO","Brown-headed Cowbird","Molothrus ater",1,1
-"RUBL","Rusty Blackbird","Euphagus carolinus",1,0
+"RUBL","Rusty Blackbird","Euphagus carolinus",1,1
 "BRBL","Brewer's Blackbird","Euphagus cyanocephalus",1,1
 "COGR","Common Grackle","Quiscalus quiscula",1,1
 "BTGR","Boat-tailed Grackle","Quiscalus major",1,1
@@ -301,7 +301,7 @@
 "LUWA","Lucy's Warbler","Leiothlypis luciae",1,1
 "NAWA","Nashville Warbler","Leiothlypis ruficapilla",1,1
 "VIWA","Virginia's Warbler","Leiothlypis virginiae",1,1
-"CONW","Connecticut Warbler","Oporornis agilis",1,0
+"CONW","Connecticut Warbler","Oporornis agilis",1,1
 "MGWA","MacGillivray's Warbler","Geothlypis tolmiei",1,1
 "MOWA","Mourning Warbler","Geothlypis philadelphia",1,1
 "KEWA","Kentucky Warbler","Geothlypis formosa",1,1
@@ -312,11 +312,11 @@
 "CERW","Cerulean Warbler","Setophaga cerulea",1,1
 "NOPA","Northern Parula","Setophaga americana",1,1
 "MAWA","Magnolia Warbler","Setophaga magnolia",1,1
-"BBWA","Bay-breasted Warbler","Setophaga castanea",1,0
+"BBWA","Bay-breasted Warbler","Setophaga castanea",1,1
 "BLBW","Blackburnian Warbler","Setophaga fusca",1,1
 "YEWA","Yellow Warbler","Setophaga petechia",1,1
 "CSWA","Chestnut-sided Warbler","Setophaga pensylvanica",1,1
-"BLPW","Blackpoll Warbler","Setophaga striata",1,0
+"BLPW","Blackpoll Warbler","Setophaga striata",1,1
 "BTBW","Black-throated Blue Warbler","Setophaga caerulescens",1,1
 "PAWA","Palm Warbler","Setophaga palmarum",1,1
 "PIWA","Pine Warbler","Setophaga pinus",1,1
