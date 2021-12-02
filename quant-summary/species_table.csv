@@ -7,7 +7,7 @@
 "WITU","Wild Turkey","Meleagris gallopavo",1,1
 "RUGR","Ruffed Grouse","Bonasa umbellus",1,1
 "SPGR","Spruce Grouse","Falcipennis canadensis",1,1
-"WIPT","Willow Ptarmigan","Lagopus lagopus",1,0
+"WIPT","Willow Ptarmigan","Lagopus lagopus",1,1
 "ROPT","Rock Ptarmigan","Lagopus muta",1,0
 "WTPT","White-tailed Ptarmigan","Lagopus leucura",1,1
 "GRSG","Greater Sage-Grouse","Centrocercus urophasianus",1,1
@@ -15,6 +15,7 @@
 "SOGR","Sooty Grouse","Dendragapus fuliginosus",1,1
 "STGR","Sharp-tailed Grouse","Tympanuchus phasianellus",1,1
 "GRPC","Greater Prairie-Chicken","Tympanuchus cupido",1,1
+"GRAP","Gray Partridge","Perdix perdix",1,0
 "RNEP","Ring-necked Pheasant","Phasianus colchicus",1,1
 "REJU","Red Junglefowl","Gallus gallus",1,1
 "CHUK","Chukar","Alectoris chukar",1,1
@@ -47,7 +48,6 @@
 "TUVU","Turkey Vulture","Cathartes aura",1,1
 "OSPR","Osprey","Pandion haliaetus",1,1
 "WTKI","White-tailed Kite","Elanus leucurus",0,1
-"STKI","Swallow-tailed Kite","Elanoides forficatus",1,0
 "GOEA","Golden Eagle","Aquila chrysaetos",1,1
 "NOHA","Northern Harrier","Circus hudsonius",1,1
 "SSHA","Sharp-shinned Hawk","Accipiter striatus",1,1
@@ -88,10 +88,10 @@
 "HAWO","Hairy Woodpecker","Dryobates villosus",1,1
 "WHWO","White-headed Woodpecker","Dryobates albolarvatus",1,1
 "NOFL","Northern Flicker","Colaptes auratus",1,1
-"YSFL","Yellow-shafted Flicker","Colaptes auratus auratus",1,1
+"YSFL","Yellow-shafted Flicker","Colaptes auratus auratus",0,1
 "PIWO","Pileated Woodpecker","Dryocopus pileatus",1,1
 "AMKE","American Kestrel","Falco sparverius",1,1
-"MERL","Merlin","Falco columbarius",1,0
+"MERL","Merlin","Falco columbarius",1,1
 "PEFA","Peregrine Falcon","Falco peregrinus",1,1
 "PRFA","Prairie Falcon","Falco mexicanus",1,1
 "CAEL","Caribbean Elaenia","Elaenia martinica",1,0
@@ -186,7 +186,7 @@
 "AMDI","American Dipper","Cinclus mexicanus",1,1
 "GCKI","Golden-crowned Kinglet","Regulus satrapa",1,1
 "RCKI","Ruby-crowned Kinglet","Regulus calendula",1,1
-"ARWA","Arctic Warbler","Phylloscopus borealis",1,0
+"ARWA","Arctic Warbler","Phylloscopus borealis",1,1
 "WREN","Wrentit","Chamaea fasciata",1,1
 "EABL","Eastern Bluebird","Sialia sialis",1,1
 "WEBL","Western Bluebird","Sialia mexicana",1,1
@@ -208,12 +208,12 @@
 "SATH","Sage Thrasher","Oreoscoptes montanus",1,1
 "NOMO","Northern Mockingbird","Mimus polyglottos",1,1
 "EUST","European Starling","Sturnus vulgaris",1,1
-"BOWA","Bohemian Waxwing","Bombycilla garrulus",1,0
+"BOWA","Bohemian Waxwing","Bombycilla garrulus",1,1
 "CEDW","Cedar Waxwing","Bombycilla cedrorum",1,1
 "PHAI","Phainopepla","Phainopepla nitens",1,1
 "NRBI","Northern Red Bishop","Euplectes franciscanus",1,0
 "HOSP","House Sparrow","Passer domesticus",1,1
-"EYWA","Eastern Yellow Wagtail","Motacilla tschutschensis",1,0
+"EYWA","Eastern Yellow Wagtail","Motacilla tschutschensis",1,1
 "AMPI","American Pipit","Anthus rubescens",1,1
 "SPPI","Sprague's Pipit","Anthus spragueii",1,1
 "EVGR","Evening Grosbeak","Coccothraustes vespertinus",1,1
@@ -224,13 +224,14 @@
 "PUFI","Purple Finch","Haemorhous purpureus",1,1
 "CAFI","Cassin's Finch","Haemorhous cassinii",1,1
 "CORE","Common Redpoll","Acanthis flammea",1,1
+"HORE","Hoary Redpoll","Acanthis hornemanni",0,1
 "RECR","Red Crossbill","Loxia curvirostra",1,1
 "WWCR","White-winged Crossbill","Loxia leucoptera",1,1
 "PISI","Pine Siskin","Spinus pinus",1,1
 "LEGO","Lesser Goldfinch","Spinus psaltria",1,1
 "LAGO","Lawrence's Goldfinch","Spinus lawrencei",0,1
 "AMGO","American Goldfinch","Spinus tristis",1,1
-"LALO","Lapland Longspur","Calcarius lapponicus",1,0
+"LALO","Lapland Longspur","Calcarius lapponicus",1,1
 "CCLO","Chestnut-collared Longspur","Calcarius ornatus",1,1
 "SNBU","Snow Bunting","Plectrophenax nivalis",1,0
 "RWSP","Rufous-winged Sparrow","Peucaea carpalis",1,1
@@ -267,7 +268,7 @@
 "RCSP","Rufous-crowned Sparrow","Aimophila ruficeps",1,1
 "GTTO","Green-tailed Towhee","Pipilo chlorurus",1,1
 "SPTO","Spotted Towhee","Pipilo maculatus",1,1
-"RSTO","Rufous-sided Towhee","Pipilo maculatus/erythrophthalmus",1,1
+"RSTO","Rufous-sided Towhee","Pipilo maculatus/erythrophthalmus",0,1
 "EATO","Eastern Towhee","Pipilo erythrophthalmus",1,1
 "YBCH","Yellow-breasted Chat","Icteria virens",1,1
 "YHBL","Yellow-headed Blackbird","Xanthocephalus xanthocephalus",1,1
